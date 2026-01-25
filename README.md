@@ -12,3 +12,8 @@
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
+
+<div align="center">
+  <img src="![WhatsApp Image 2026-01-25 at 1 14 44 PM](https://github.com/user-attachments/assets/e1ae7805-b713-4cfc-94cc-0234ce5f4879)" width="50"/>
+</div>
+
