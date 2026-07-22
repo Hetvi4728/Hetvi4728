@@ -16,7 +16,7 @@
 📈Website : https://painting-shop-project.vercel.app/
 <div align="right">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c8e070d9-e5e7-4cae-8800-fa5d7a6a6f69" width="300"/>
